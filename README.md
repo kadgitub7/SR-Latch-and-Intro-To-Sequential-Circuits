@@ -28,7 +28,7 @@ Input ──►   Combinational   ──►── Output
                Memory
              (Flip-Flop)
 ```
-
+![Sequential Circuit](/SequentialCircuitDiagram.png)
 1. The circuit receives an **input**.
 2. The output is computed and sent forward.
 3. The output is also **stored in memory** (a flip-flop).

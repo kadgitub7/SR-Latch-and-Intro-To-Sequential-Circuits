@@ -177,6 +177,9 @@ This feedback creates a stable state that persists even after the inputs return 
 
 ---
 
+## Circuit Diagram:
+![SR Latch Circuit](/imageAssets/SRLatchCircuit.png)
+
 ## Case Analysis
 
 The following cases illustrate sequential operation of the latch. In each case, the inputs are applied one after another.
